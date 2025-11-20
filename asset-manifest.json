@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c50bae7.css",
+    "main.js": "/static/js/main.5cc5791e.js",
+    "static/js/453.5836f070.chunk.js": "/static/js/453.5836f070.chunk.js",
+    "static/media/villageois.jpg": "/static/media/villageois.98578f086693a264c690.jpg",
+    "index.html": "/index.html",
+    "main.0c50bae7.css.map": "/static/css/main.0c50bae7.css.map",
+    "main.5cc5791e.js.map": "/static/js/main.5cc5791e.js.map",
+    "453.5836f070.chunk.js.map": "/static/js/453.5836f070.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c50bae7.css",
+    "static/js/main.5cc5791e.js"
+  ]
+}
